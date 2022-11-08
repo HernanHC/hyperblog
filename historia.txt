@@ -1,0 +1,5 @@
+Este es el archivo que se tiene que crear para el curso de Git
+
+Aquí algo de contenido
+
+Aquí otro poco de contenido.
