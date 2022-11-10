@@ -1,7 +1,21 @@
 body
 {
-    text-align: center;
+    text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     background-color: black;
-    color: white;
+    font-size: 16px;
+    color: #ff12dd;
+}
+
+
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid white;
+    margin: 0 auto;
+}
+
+#container h1{
+    font-size: 20px;
 }
