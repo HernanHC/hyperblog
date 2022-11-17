@@ -1,8 +1,13 @@
 body
 {
     text-align: left;
+<<<<<<< HEAD
     font-family: 'Courier New', Courier, monospace;
     background-color: blue;
+=======
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+>>>>>>> cabecera
     font-size: 16px;
     color: black;
     margin: 0;
